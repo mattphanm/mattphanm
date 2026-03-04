@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hello! I'm Matthew Phan. I am a Software Engineer from Los Angeles, California. 
+
+📍 San Luis Obispo, CA (Computer Science Major Cal Poly San Luis Obispo)
+
+📫 Connect with me on [LinkedIn] (https://www.linkedin.com/in/matthewphanm/)
+
+
 
 <!--
-**mattphanm/mattphanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
