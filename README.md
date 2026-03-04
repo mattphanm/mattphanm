@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/matthewphanm/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="matthewminhphan@gmail.com">
+  <a href="mailto:matthewminhphan@gmail.com">
     <img src="https://img.shields.io/badge/Email-f97316?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -17,8 +17,6 @@
   * Full-Stack Engineer with hands on experience in web + mobile FrontEnd and
     Backend
   * Strong with React, TypeScript, Next.js, Node.js/Express
-
-![Profile views](https://komarev.com/ghpvc/?username=mattphanm)
 
 ## Skills and Tools
 
@@ -34,10 +32,11 @@
 ### BackEnd and Data
 ![Node.JS](https://img.shields.io/badge/Node.js-16a34a?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
-![Convex](https://img.shields.io/badge/Rust-f97316?style=for-the-badge&logo=rust&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-f97316?style=for-the-badge&logo=rust&logoColor=white)
 
 
- 
+![Profile views](https://komarev.com/ghpvc/?username=mattphanm)
+
 <!--
 
 Here are some ideas to get you started:
