@@ -4,7 +4,14 @@
   <b>Building reliable web + real-time systems • Focusing on innovation and impact</b>
 </p>
 
-[LinkedIn](https://www.linkedin.com/in/matthewphanm/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/matthewphanm/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="matthewminhphan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-f97316?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ## About
   * Full-Stack Engineer with hands on experience in web + mobile FrontEnd and
