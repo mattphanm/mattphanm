@@ -1,10 +1,13 @@
 ## Hello! I'm Matthew Phan. I am a Software Engineer from Los Angeles, California. 
 
-##  - 📍 San Luis Obispo, CA (Computer Science Major Cal Poly San Luis Obispo)
+##  * 📍 San Luis Obispo, CA (Computer Science Major Cal Poly San Luis Obispo)
 
-##  - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/matthewphanm/)
+##  * 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/matthewphanm/)
 
 ## About
+  * Full-Stack Engineer with hands on experience in web + mobile FrontEnd and
+    Backend
+  * Strong with React, TypeScript, Next.js, Node.js/Express
 
 
 
