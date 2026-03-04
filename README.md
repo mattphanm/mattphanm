@@ -3,6 +3,7 @@
 ###  * 📍 San Luis Obispo, CA (Computer Science Major Cal Poly San Luis Obispo)
 
 ###  * 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/matthewphanm/)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,40:0f766e,100:f59e0b&text=YOUR%20NAME&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=YOUR%20TAGLINE&descAlignY=58&descSize=18&animation=fadeIn)
 
 ## About
   * Full-Stack Engineer with hands on experience in web + mobile FrontEnd and
