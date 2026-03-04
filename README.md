@@ -2,7 +2,7 @@
 
 📍 San Luis Obispo, CA (Computer Science Major Cal Poly San Luis Obispo)
 
-📫 Connect with me on [LinkedIn] (https://www.linkedin.com/in/matthewphanm/)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/matthewphanm/)
 
 
 
