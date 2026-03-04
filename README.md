@@ -15,7 +15,7 @@
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-0ea5e9?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript]([https://img.shields.io/badge/JavaScript-0B1120?style=for-the-badge&logo=javascript](https://img.shields.io/badge/TypeScript-0ea5e9?style=for-the-badge&logo=typescript&logoColor=white))
+![JavaScript](https://img.shields.io/badge/TypeScript-0ea5e9?style=for-the-badge&logo=typescript&logoColor=white)
 
  
 <!--
