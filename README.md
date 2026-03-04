@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b1020,50:1d4ed8,100:9333ea&text=Matthew%20Phan&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Cal%20Poly%20San%20Luis%20Obispo%20%7C%20Los%20Angeles&descAlignY=60&descSize=14&animation=fadeIn)
+<p align="center">
+    ![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b1020,50:1d4ed8,100:9333ea&text=Matthew%20Phan&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Cal%20Poly%20San%20Luis%20Obispo%20%7C%20Los%20Angeles&descAlignY=60&descSize=14&animation=fadeIn)
+</p>
 
 <p align="center"> 
   <b>Focusing on innovation and impact through reliable web + real-time systems</b>
