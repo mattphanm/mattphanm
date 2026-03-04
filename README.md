@@ -9,7 +9,7 @@
     Backend
   * Strong with React, TypeScript, Next.js, Node.js/Express
 
-
+[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewphanm)](https://github.com/mattphanm/mattphanm/edit/main/README.md)
 
 
 <!--
