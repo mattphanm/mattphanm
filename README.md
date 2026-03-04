@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b1020,50:1d4ed8,100:9333ea&text=Matthew%20Phan&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Cal%20Poly%20San%20Luis%20Obispo%20%7C%20Los%20Angeles&descAlignY=60&descSize=14&animation=fadeIn)
-###  * 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/matthewphanm/)
+
+<p align="center">
+  Building reliable web + real-time systems • Focusing on innovation and impact
+</p>
+
+[LinkedIn](https://www.linkedin.com/in/matthewphanm/)
 
 ## About
   * Full-Stack Engineer with hands on experience in web + mobile FrontEnd and
