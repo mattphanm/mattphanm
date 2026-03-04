@@ -11,7 +11,13 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=mattphanm)
 
+## Skills and Tools
 
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1120?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1120?style=for-the-badge&logo=javascript)
+
+ 
 <!--
 
 Here are some ideas to get you started:
